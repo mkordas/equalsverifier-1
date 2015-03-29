@@ -1,0 +1,5 @@
+[This page has moved](http://www.jqno.nl/equalsverifier/errormessages/).
+
+Sorry for the inconvenience!
+
+(If you got here through an EqualsVerifier error message, please update to the latest version! It will send you to the right page directly.)
